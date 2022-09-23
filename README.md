@@ -9,7 +9,7 @@ aonde pode ver avaliação,Sinopse,trailer sendo encaminhado para o youtube e ai
 
 <h2>📸 Demostração </h2>
 
-<img src="" />
+<img src="https://user-images.githubusercontent.com/110493728/191990797-3bf09be5-cfbb-456a-9acd-74df87d7842b.mp4" alt="demostração" height="400" />
 
 
 
@@ -18,7 +18,7 @@ aonde pode ver avaliação,Sinopse,trailer sendo encaminhado para o youtube e ai
 
 <p>as ferramentas otilizadas para fazer o projeto;</p>
 
-✔️React-js
-✔️Html
-✔️Css
+✔️React-js <br>
+✔️Html <br>
+✔️Css <br>
 ✔️JavaScript
